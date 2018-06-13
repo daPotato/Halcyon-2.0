@@ -1,3 +1,3 @@
 <h1>Welcome to Space Station 13!</h1>
 
-Terms of service goes here.
+<h3>We log your IP. We are not the Facebook, we do not take any of your other information.<h3>
