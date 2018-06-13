@@ -1,11 +1,11 @@
 ## Server name: This appears at the top of the screen in-game. In this case it will read "spacestation13: station_name" where station_name is the randomly generated name of the station for the round. Remove the # infront of SERVERNAME and replace 'spacestation13' with the name of your choice
-# SERVERNAME spacestation13
+SERVERNAME Adminbus Halcyon
 
 ## Add a # infront of this if you want to use the SQL based admin system, the legacy system uses admins.txt. You need to set up your database to use the SQL based system.
 ADMIN_LEGACY_SYSTEM
 
 ## Add a # infront of this if you want to use the SQL based banning system. The legacy systems use the files in the data folder. You need to set up your database to use the SQL based system.
-BAN_LEGACY_SYSTEM
+# BAN_LEGACY_SYSTEM
 
 ## Add a # here if you wish to use the setup where jobs have more access. This is intended for servers with low populations - where there are not enough players to fill all roles, so players need to do more than just one job. Also for servers where they don't want people to hide in their own departments.
 JOBS_HAVE_MINIMAL_ACCESS
@@ -79,7 +79,7 @@ PROBABILITY TRAITORCHAN 3
 PROBABILITY TRAITORVAMP 3
 PROBABILITY REVOLUTION 0
 PROBABILITY SHADOWLING 2
-PROBABILITY CULT 4
+PROBABILITY CULT 3
 PROBABILITY CHANGELING 3
 PROBABILITY WIZARD 2
 PROBABILITY BLOB 1
@@ -178,7 +178,7 @@ CHECK_RANDOMIZER
 # RULESURL http://example.org
 
 ## GitHub address
-# GITHUBURL http://example.org
+GITHUBURL https://github.com/daPotato/Halcyon-2.0
 
 ## Donations address
 # DONATIONSURL http://example.org
@@ -364,10 +364,10 @@ BASE_MC_TICK_RATE 1
 HIGH_POP_MC_TICK_RATE 1.1
 
 ##Engage high pop mode if player count raises above this (Player in this context means any connected user. Lobby, ghost or in-game all count)
-HIGH_POP_MC_MODE_AMOUNT 65
+HIGH_POP_MC_MODE_AMOUNT 50
 
 ##Disengage high pop mode if player count drops below this
-DISABLE_HIGH_POP_MC_MODE_AMOUNT 60
+DISABLE_HIGH_POP_MC_MODE_AMOUNT 45
 
 ##Uncomment to enable developer start. Auto starts the server after initialization
 ##DEVELOPER_EXPRESS_START

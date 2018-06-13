@@ -12,13 +12,13 @@ Medical Doctor=5
 Geneticist=2
 Virologist=1
 
-Scientist=3
+Scientist=4
 Chemist=2
 
 Bartender=1
-Botanist=2
+Botanist=3
 Chef=1
-Janitor=1
+Janitor=2
 Quartermaster=1
 Shaft Miner=3
 
@@ -34,4 +34,4 @@ Lawyer=2
 Librarian=1
 
 AI=1
-Cyborg=1
+Cyborg=2
