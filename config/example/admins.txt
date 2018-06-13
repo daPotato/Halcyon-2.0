@@ -5,4 +5,9 @@
 # Ranks can be anything defined in admin_ranks.txt           	     #
 ######################################################################
 
-# example - Hosting Provider
+# DaPotato - Head of Staff
+# Vortex1840 - Hosting Provider
+# Commando950 - Head of Staff
+# BOBthePoTaTo - Moderator
+# walrus23 - Adminbus Admin
+# LuigiBoiBY - Adminbus Admin
