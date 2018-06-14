@@ -1,5 +1,34 @@
 <h1>Welcome to Halcyon Station!</h1>
 
--<i>This server is running <a href="http://nanotrasen.se/">Paradise's</a> modification of the <a href="http://baystation12.net/">Baystation 12</a> and <a href="http://ss13.eu/">/tg/station13</a> SS13 code.</i>
+-<i>This server is running Halcyon's modification of <a href="http://nanotrasen.se/">Paradise's</a> SS13 code.</i>
 <br><br>
-<strong>GitHub:</strong> <a href="https://github.com/ParadiseSS13/Paradise">https://github.com/ParadiseSS13/Paradise</a>
+<strong>GitHub:</strong> <a href="https://github.com/daPotato/Halcyon-2.0">https://github.com/daPotato/Halcyon-2.0</a>
+<br><br>
+<strong>Discord:</strong> <a href="https://discord.gg/zvmcf5G">https://discord.gg/zvmcf5G</a>
+<hr>
+<h2>Rules!</h2>
+<hr>
+<h3>The word of Staff is the final word</h3>
+If you feel you are being punished for an unfair reason, contact another admin at the <a href="https://discord.gg/zvmcf5G">Discord</a>
+<hr>
+<h3>Adult Content is not allowed</h3>
+No ERP, no links to any adult websites or anything that happens to not be safe for work.
+<hr>
+<h3>Don't Metagame</h3>
+If you know something out of character, don't use it in character. If you catch someone metagaming, report them via ahelp or <a href="https://discord.gg/zvmcf5G">Discord</a>.
+<hr>
+<h3>Use English</h3>
+As filthy uncultured Americans, we require you speak English for the understanding of everyone else.
+<hr>
+<h3>Don't Murderbone</h3>
+Its a dick move, don't randomly kill other people.
+<hr>
+<h3>Do not mess with the SSD</h3>
+If someone is logged out, do not touch them. Exceptions are made if they combat log or arrest log. If you are a Traitor and your target goes SSD, Ahelp it.
+<hr>
+<h3>Do not Ban Evade</h3>
+This will cause us to ban you even more.
+<hr>
+<h3>Know that this is a Medium RP server.</h3>
+We do not require everyone to be fully immersed, with Character records and fully done flavor texts, but they are nice to have. Keep yourself within the RP, do not break it.
+<hr>
