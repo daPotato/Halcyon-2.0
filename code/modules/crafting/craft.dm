@@ -236,7 +236,7 @@
 /datum/personal_crafting/ui_interact(mob/user, ui_key = "main", datum/nanoui/ui = null, force_open = 1, datum/topic_state/state = not_incapacitated_turf_state)
 	ui = SSnanoui.try_update_ui(user, src, ui_key, ui, force_open)
 	if(!ui)
-		ui = new(user, src, ui_key, "personal_crafting.tmpl", "Crafting Menu", 700, 800, state = state)
+		ui = new(user, src, ui_key, "personal_crafting.tmpl", "Crafting Menu", 500, 500, state = state)
 		ui.open()
 
 /datum/personal_crafting/ui_data(mob/user)

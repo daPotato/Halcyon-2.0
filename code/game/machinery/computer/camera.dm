@@ -127,7 +127,7 @@
 /obj/machinery/computer/security/ui_interact(mob/user, ui_key = "main", var/datum/nanoui/ui = null, var/force_open = 1)
 	ui = SSnanoui.try_update_ui(user, src, ui_key, ui, force_open)
 	if(!ui)
-		ui = new(user, src, ui_key, "sec_camera.tmpl", "Camera Console", 900, 800)
+		ui = new(user, src, ui_key, "sec_camera.tmpl", "Camera Console", 500, 500)
 
 		// adding a template with the key "mapContent" enables the map ui functionality
 		ui.add_template("mapContent", "sec_camera_map_content.tmpl")

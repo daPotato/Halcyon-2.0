@@ -48,7 +48,7 @@
 /obj/machinery/computer/skills/ui_interact(mob/user, ui_key = "main", var/datum/nanoui/ui = null, var/force_open = 1)
 	ui = SSnanoui.try_update_ui(user, src, ui_key, ui, force_open)
 	if(!ui)
-		ui = new(user, src, ui_key, "skills_data.tmpl", name, 800, 380)
+		ui = new(user, src, ui_key, "skills_data.tmpl", name, 540, 380)
 		ui.open()
 
 /obj/machinery/computer/skills/ui_data(mob/user, ui_key = "main", datum/topic_state/state = default_state)
